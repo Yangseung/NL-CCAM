@@ -25,9 +25,10 @@ NL-CCAM for CUB-200-2011
 
 # Training and Test for your own model
 
-Training: train_cub.py
 
 Change codes for your model
+
+Training: train_cub.py
 1. model
 2. dataloader
 
