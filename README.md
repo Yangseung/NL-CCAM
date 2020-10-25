@@ -40,4 +40,4 @@ For getting bounding boxes, we should use a threshold value.
 
 I fix the threshold value for quadratic function.
 
-You can change threshold values for the best results of your models.
+You can change threshold values for the best results of each combinational function.
