@@ -19,7 +19,7 @@ PATH: ./CUB_200_2011
 
 # Pre-trained model
 
-VGG16 pretrained on ImageNet
+[VGG16 pretrained on ImageNet](https://drive.google.com/file/d/1hYq-BtbtKPSbdHXo-l6t5B-Zxgcq362r/view?usp=sharing)
 
 [NL-CCAM for CUB-200-2011](https://drive.google.com/file/d/1odChg6B_LKDVfKDiVXH_Z47LRsOxSRJo/view?usp=sharing)
 
