@@ -5,10 +5,38 @@ https://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_
 
 # Environments
 
-python = 3.6
+python == 3.6
 
-pytorch = 0.4.0
+pytorch == 0.4.0
 
-cuda90
+opencv == 3.4.2
 
-opencv - 3.4.2
+# Dataset
+
+CUB-200-2011
+
+PATH: ./CUB_200_2011
+
+# Pre-trained model
+
+NL-CCAM for CUB-200-2011
+
+# Training and Test for your own model
+
+Training: train_cub.py
+
+Change codes for your model
+1. model
+2. dataloader
+
+Evaluating: IoU_check_cub_5.py
+1. load model
+2. choose function for CCAM
+
+# Get the paper results
+
+For getting bounding boxes, we should use a threshold value.
+
+I fix the threshold value for quadratic function.
+
+You can change threshold values for the best results of your models.
